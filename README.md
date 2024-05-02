@@ -28,4 +28,4 @@ The minfit API can be found at [minfit-api](https://github.com/mariocrrt/minfit-
 
 ## Aren't There Plenty of Workout Trackers Out There?
 
-Indeed, there are numerous workout trackers available, but I couldn't find one that met my specific needs. Most existing fitness trackers offer a plethora of features, whereas I simply wanted a straightforward tool for tracking my workouts. Thus, I decided to develop minfit minimalist solution tailored to my requirements.
+Indeed, there are numerous workout trackers available, but I couldn't find one that met my specific needs. Most existing fitness trackers offer a plethora of features, whereas I simply wanted a straightforward tool for tracking my workouts. Thus, I decided to develop minfit, a minimalist solution tailored to my requirements.
