@@ -22,6 +22,10 @@ minfit is built using the following technologies:
 - **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
 - **Node.js**: A JavaScript runtime environment for running server-side JavaScript code.
 
+## API Reference
+
+The minfit API can be found at [minfit-api](https://github.com/mariocrrt/minfit-api).
+
 ## Aren't There Plenty of Workout Trackers Out There?
 
 Indeed, there are numerous workout trackers available, but I couldn't find one that met my specific needs. Most existing fitness trackers offer a plethora of features, whereas I simply wanted a straightforward tool for tracking my workouts. Thus, I decided to develop MinFit—a minimalist solution tailored to my requirements.
