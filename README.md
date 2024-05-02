@@ -1,6 +1,6 @@
-# MinFit: A Minimalistic Fitness Tracker
+# minfit: A Minimalistic Fitness Tracker
 
-MinFit is a minimalistic fitness tracker designed to replicate the core functionalities of the Workout app on the iPhone.
+minfit is a minimalistic fitness tracker designed to replicate the core functionalities of the Workout app on the iPhone.
 
 ## How Does it Work?
 
@@ -13,7 +13,7 @@ And that's all there is to it!
 
 ## Tech Stack
 
-MinFit is built using the following technologies:
+minfit is built using the following technologies:
 
 - **React**: A JavaScript library for building user interfaces.
 - **Vite**: A next-generation frontend build tool that provides instant server startup.
