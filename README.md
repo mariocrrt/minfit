@@ -1,31 +1,27 @@
-# React + TypeScript + Vite
+# MinFit: A Minimalistic Fitness Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MinFit is a minimalistic fitness tracker designed to replicate the core functionalities of the Workout app on the iPhone.
 
-Currently, two official plugins are available:
+## How Does it Work?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Start the Timer**: Begin your workout session by starting the timer.
+2. **Workout**: Engage in your chosen exercise routine.
+3. **Stop the Timer**: Once your workout is complete, stop the timer.
+4. **Track Your Workouts**: All your workout sessions are conveniently logged in the "My Workouts" list.
 
-## Expanding the ESLint configuration
+And that's all there is to it!
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Tech Stack
 
-- Configure the top-level `parserOptions` property like this:
+MinFit is built using the following technologies:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A next-generation frontend build tool that provides instant server startup.
+- **GraphQL**: A query language for APIs that enables clients to request only the data they need.
+- **MongoDB**: A document-oriented NoSQL database for storing workout data.
+- **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
+- **Node.js**: A JavaScript runtime environment for running server-side JavaScript code.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# minfit
+## Aren't There Plenty of Workout Trackers Out There?
+
+Indeed, there are numerous workout trackers available, but I couldn't find one that met my specific needs. Most existing fitness trackers offer a plethora of features, whereas I simply wanted a straightforward tool for tracking my workouts. Thus, I decided to develop MinFit—a minimalist solution tailored to my requirements.
